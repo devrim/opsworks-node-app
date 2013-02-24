@@ -1,0 +1,21 @@
+{
+  "author": "Koding Team <team@koding.com>",
+  "name": "Koding",
+  "description": "opsworks test",
+  "version": "0.0.1",
+  "homepage": "koding.com",
+  "private" : true,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/devrim/opsworks-node-app.git"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "coffee-script"   : "1.4.0"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
